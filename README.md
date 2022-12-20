@@ -6,7 +6,8 @@ This is a starter app for Expo that includes a full authentication flow with ema
 
 1. Clone this repo
 2. Run `yarn` to install dependencies
-3. Run `yarn start` to start the Expo development server
+3. set your environment variables in `.env` `mv .env.example .env`
+4. Run `yarn start` to start the app
 
 ## Features
 
